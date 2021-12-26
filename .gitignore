@@ -1,2 +1,5 @@
 '.idea' 
 '.idea' 
+/src/
+target
+out
