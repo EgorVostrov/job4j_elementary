@@ -18,6 +18,5 @@ public class MathCalculator {
         System.out.println("Результат расчета равен: " + sumAndMultiply(10, 20));
         System.out.println("Результат расчета равен: " + divAndDif(10, 20));
         System.out.println("Результат расчета равен: " + maxSum(10, 20));
-
     }
 }
