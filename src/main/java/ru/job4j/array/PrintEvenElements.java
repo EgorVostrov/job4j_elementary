@@ -6,7 +6,7 @@ public class PrintEvenElements {
         String res = "Элементы массива с чётными индексами, начиная с последнего: " + ln;
         for (int i = 0; i < numbers.length; i++) {
             if ((numbers[numbers.length - 1 - i]) % 2 == 0) {
-                res += numbers[numbers.length - 1 - i] + ln;
+               res += numbers[numbers.length - 1 - i] + ln;
             }
         }
         return res;
